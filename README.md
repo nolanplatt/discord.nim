@@ -1,1 +1,3 @@
-# HackBeanPot2022
+# Nimdiscord
+
+Powerful wrapper for Discord's API, built in Nim.
