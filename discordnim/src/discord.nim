@@ -1,0 +1,1 @@
+# Entry point for Discord.nim
